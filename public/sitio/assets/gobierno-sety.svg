@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="48" viewBox="0 0 240 48" fill="none">
+  <rect x="1" y="4" width="40" height="40" rx="10" fill="#7A1C37" stroke="#B88924" stroke-width="1.5"/>
+  <path d="M14 15L21 26V34M28 15L21 26" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="50" y="19" fill="#B88924" font-family="system-ui, -apple-system, sans-serif" font-size="9.5" font-weight="700" letter-spacing="0.8">RENACIMIENTO MAYA · 2024–2030</text>
+  <text x="50" y="34" fill="#1B1E23" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="800">Gobierno de Yucatán · SETY</text>
+</svg>
